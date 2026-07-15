@@ -1,4 +1,4 @@
-# Credit Card Approval Prediction System
+# Credit Card Approval Prediction
 
 ## Overview
 This project predicts whether a credit card application will be approved or rejected using machine learning.
