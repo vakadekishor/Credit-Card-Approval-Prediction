@@ -1,5 +1,4 @@
 # Credit-Card-Approval-Prediction
-# Credit Card Approval Prediction
 
 ## 📌 Project Overview
 
