@@ -1,0 +1,201 @@
+gender,income_type,annual_income,employment_duration,education_level,family_status,housing_type,age,children_count,payment_status,credit_inquiries,approval_status
+Male,Working,244393,8,Secondary,Single / not married,House / apartment,27,4,0,4,Rejected
+Female,Working,57811,2,Secondary,Single / not married,With parents,59,0,1,5,Rejected
+Female,Commercial associate,167757,18,Higher education,Married,House / apartment,65,3,2,2,Rejected
+Male,Commercial associate,250145,10,Secondary,Married,Rented apartment,27,2,2,4,Rejected
+Female,Working,241294,14,Incomplete higher,Married,Rented apartment,26,4,2,5,Rejected
+Female,Commercial associate,234699,2,Secondary,Single / not married,Rented apartment,26,1,0,3,Rejected
+Female,Pensioner,216640,26,Higher education,Single / not married,Rented apartment,43,1,2,5,Rejected
+Male,Commercial associate,190021,23,Secondary,Single / not married,Rented apartment,45,2,1,5,Rejected
+Female,Working,110043,26,Secondary,Civil marriage,Rented apartment,38,0,1,4,Rejected
+Female,Commercial associate,221819,15,Higher education,Widow,House / apartment,37,1,1,5,Rejected
+Female,Pensioner,285358,18,Higher education,Civil marriage,House / apartment,29,4,3,0,Rejected
+Male,Working,90066,20,Secondary,Widow,With parents,25,3,3,4,Rejected
+Female,State servant,195024,27,Secondary,Married,With parents,55,2,2,0,Rejected
+Female,Pensioner,91460,14,Secondary,Civil marriage,With parents,32,4,0,5,Rejected
+Female,Commercial associate,90065,11,Secondary,Married,With parents,41,3,0,0,Rejected
+Female,State servant,112770,1,Secondary,Married,House / apartment,52,0,1,1,Rejected
+Female,Commercial associate,119483,16,Incomplete higher,Widow,House / apartment,55,1,2,3,Rejected
+Female,Pensioner,285828,16,Higher education,Married,House / apartment,35,0,2,0,Rejected
+Male,Commercial associate,51885,2,Incomplete higher,Married,House / apartment,25,0,2,0,Rejected
+Male,State servant,225368,15,Secondary,Single / not married,With parents,57,4,3,1,Rejected
+Female,Pensioner,99914,3,Secondary,Widow,Rented apartment,48,3,3,5,Rejected
+Male,Working,65889,12,Incomplete higher,Civil marriage,House / apartment,36,1,1,4,Rejected
+Female,Commercial associate,160593,5,Higher education,Widow,House / apartment,25,3,0,0,Approved
+Male,Working,292841,24,Secondary,Single / not married,Rented apartment,52,3,1,3,Rejected
+Male,Commercial associate,149345,0,Higher education,Civil marriage,Rented apartment,39,3,3,1,Rejected
+Male,State servant,107068,30,Secondary,Married,With parents,41,0,0,4,Rejected
+Female,Commercial associate,64910,30,Incomplete higher,Married,House / apartment,25,4,0,5,Rejected
+Male,Pensioner,81427,30,Incomplete higher,Single / not married,With parents,59,0,0,3,Rejected
+Female,State servant,103545,21,Incomplete higher,Civil marriage,House / apartment,37,3,1,5,Rejected
+Female,Pensioner,132883,29,Secondary,Married,Rented apartment,60,4,0,0,Approved
+Male,State servant,84722,29,Higher education,Married,House / apartment,44,2,1,3,Rejected
+Female,Working,225076,26,Incomplete higher,Civil marriage,With parents,27,1,2,0,Rejected
+Male,Commercial associate,121394,9,Incomplete higher,Single / not married,With parents,42,1,2,4,Rejected
+Female,State servant,287328,29,Secondary,Married,With parents,48,2,0,0,Approved
+Female,Commercial associate,217015,8,Secondary,Widow,With parents,48,4,0,0,Approved
+Male,Commercial associate,193023,1,Higher education,Single / not married,Rented apartment,29,0,2,2,Rejected
+Male,State servant,105070,21,Secondary,Married,Rented apartment,56,3,1,1,Rejected
+Male,Commercial associate,281057,13,Secondary,Single / not married,With parents,42,3,1,2,Approved
+Male,Working,150281,27,Secondary,Widow,House / apartment,33,3,2,2,Rejected
+Male,Commercial associate,56203,21,Secondary,Widow,Rented apartment,38,0,2,2,Rejected
+Female,State servant,296215,0,Secondary,Civil marriage,House / apartment,58,2,0,0,Rejected
+Female,State servant,240983,25,Higher education,Widow,With parents,53,0,3,4,Rejected
+Male,State servant,61635,22,Higher education,Married,With parents,55,1,2,3,Rejected
+Male,State servant,213356,10,Incomplete higher,Married,With parents,40,4,2,5,Rejected
+Female,State servant,155486,22,Higher education,Single / not married,House / apartment,47,3,1,4,Rejected
+Female,Pensioner,193638,26,Secondary,Civil marriage,Rented apartment,34,3,2,3,Rejected
+Female,Pensioner,227111,6,Incomplete higher,Widow,With parents,31,0,2,4,Rejected
+Female,Working,264544,30,Secondary,Civil marriage,House / apartment,33,1,0,0,Approved
+Male,Pensioner,210241,27,Secondary,Widow,Rented apartment,61,4,1,5,Rejected
+Female,Pensioner,154766,7,Secondary,Married,House / apartment,48,1,1,5,Rejected
+Female,Working,196120,7,Secondary,Widow,House / apartment,50,4,2,3,Rejected
+Female,Pensioner,285197,5,Incomplete higher,Widow,Rented apartment,37,1,2,4,Rejected
+Female,Commercial associate,121984,14,Secondary,Civil marriage,House / apartment,38,2,2,4,Rejected
+Male,Commercial associate,89539,7,Higher education,Single / not married,With parents,34,0,3,3,Rejected
+Female,Pensioner,158992,1,Secondary,Widow,Rented apartment,58,0,3,3,Rejected
+Male,State servant,128279,24,Higher education,Widow,With parents,55,4,1,3,Rejected
+Male,State servant,164251,15,Secondary,Widow,Rented apartment,63,3,1,3,Rejected
+Male,Working,287745,12,Incomplete higher,Married,House / apartment,62,3,1,3,Rejected
+Male,Working,118198,12,Higher education,Single / not married,Rented apartment,41,2,3,2,Rejected
+Female,State servant,268866,2,Higher education,Married,With parents,55,0,2,1,Rejected
+Male,Working,247717,0,Secondary,Single / not married,House / apartment,60,1,1,1,Rejected
+Female,Working,197841,30,Secondary,Widow,With parents,37,2,1,4,Rejected
+Male,Commercial associate,131536,3,Incomplete higher,Married,Rented apartment,57,3,3,5,Rejected
+Male,Working,205214,22,Incomplete higher,Single / not married,House / apartment,65,2,0,4,Rejected
+Male,State servant,189655,13,Incomplete higher,Civil marriage,House / apartment,53,2,0,3,Rejected
+Female,Working,163645,30,Higher education,Widow,With parents,30,3,1,5,Rejected
+Female,Pensioner,171863,13,Incomplete higher,Civil marriage,Rented apartment,36,0,2,3,Rejected
+Male,Pensioner,199382,19,Incomplete higher,Widow,Rented apartment,22,3,2,1,Rejected
+Female,Commercial associate,143015,25,Higher education,Civil marriage,Rented apartment,59,2,0,4,Rejected
+Male,Working,113270,23,Higher education,Widow,With parents,36,3,3,3,Rejected
+Male,Working,127132,7,Higher education,Single / not married,Rented apartment,63,4,2,3,Rejected
+Female,Pensioner,245542,17,Higher education,Civil marriage,With parents,50,2,2,2,Rejected
+Male,Working,239080,6,Higher education,Married,With parents,55,1,1,1,Approved
+Female,State servant,239945,18,Incomplete higher,Civil marriage,House / apartment,33,2,1,2,Approved
+Male,State servant,53708,22,Incomplete higher,Single / not married,Rented apartment,23,0,2,5,Rejected
+Male,Pensioner,76892,27,Secondary,Civil marriage,Rented apartment,51,3,2,1,Rejected
+Male,State servant,296694,27,Higher education,Married,House / apartment,46,3,0,4,Rejected
+Male,Commercial associate,89111,25,Incomplete higher,Civil marriage,House / apartment,36,0,3,4,Rejected
+Male,Pensioner,168099,29,Higher education,Civil marriage,With parents,48,2,0,4,Rejected
+Male,Commercial associate,213975,6,Higher education,Married,House / apartment,36,1,0,1,Approved
+Male,Pensioner,168096,22,Incomplete higher,Widow,Rented apartment,23,1,2,5,Rejected
+Female,Pensioner,68659,21,Secondary,Civil marriage,With parents,58,1,3,0,Rejected
+Male,Commercial associate,288134,8,Secondary,Married,House / apartment,31,2,2,3,Rejected
+Male,Pensioner,230532,9,Incomplete higher,Widow,Rented apartment,53,4,3,3,Rejected
+Male,Working,283156,13,Incomplete higher,Civil marriage,With parents,37,0,0,1,Approved
+Male,State servant,201059,1,Secondary,Widow,With parents,62,3,2,1,Rejected
+Female,Pensioner,73918,15,Higher education,Widow,Rented apartment,41,0,1,2,Rejected
+Female,Pensioner,125554,21,Higher education,Married,Rented apartment,26,2,2,2,Rejected
+Male,Pensioner,276731,16,Secondary,Widow,Rented apartment,24,1,2,4,Rejected
+Female,Pensioner,249226,1,Secondary,Civil marriage,With parents,29,2,3,5,Rejected
+Female,Working,57567,20,Incomplete higher,Single / not married,With parents,31,2,0,4,Rejected
+Female,Working,108903,26,Secondary,Widow,House / apartment,62,1,3,5,Rejected
+Female,State servant,158918,26,Higher education,Widow,House / apartment,50,4,1,3,Rejected
+Male,Commercial associate,276499,2,Higher education,Widow,Rented apartment,53,2,0,2,Approved
+Female,Pensioner,276822,4,Higher education,Widow,Rented apartment,42,4,3,3,Rejected
+Female,Commercial associate,232845,7,Incomplete higher,Widow,House / apartment,47,0,2,5,Rejected
+Female,Pensioner,151208,21,Incomplete higher,Single / not married,Rented apartment,23,1,2,0,Rejected
+Female,Working,187874,29,Higher education,Married,With parents,30,3,1,0,Approved
+Female,State servant,138751,19,Incomplete higher,Widow,With parents,26,2,3,2,Rejected
+Female,Working,211863,2,Secondary,Civil marriage,House / apartment,26,3,0,5,Rejected
+Male,Pensioner,93611,22,Higher education,Married,House / apartment,41,0,2,2,Rejected
+Female,Pensioner,88160,7,Incomplete higher,Widow,With parents,64,1,1,1,Rejected
+Male,Pensioner,212453,21,Secondary,Widow,With parents,30,1,3,5,Rejected
+Female,Pensioner,116932,21,Secondary,Widow,Rented apartment,64,4,1,0,Rejected
+Female,State servant,204028,9,Incomplete higher,Widow,With parents,37,3,2,1,Rejected
+Female,Pensioner,77958,7,Higher education,Civil marriage,With parents,39,2,0,5,Rejected
+Female,State servant,52122,18,Incomplete higher,Married,With parents,52,2,1,4,Rejected
+Female,Commercial associate,216885,6,Incomplete higher,Civil marriage,With parents,63,1,0,5,Rejected
+Male,State servant,256729,14,Secondary,Civil marriage,With parents,29,0,2,2,Rejected
+Female,Commercial associate,102637,4,Incomplete higher,Civil marriage,With parents,53,2,1,2,Rejected
+Female,State servant,245706,27,Higher education,Married,Rented apartment,25,1,1,5,Rejected
+Female,State servant,73672,25,Higher education,Married,Rented apartment,55,0,3,2,Rejected
+Female,Pensioner,265591,20,Higher education,Married,With parents,35,3,0,4,Rejected
+Female,Commercial associate,219778,2,Incomplete higher,Widow,With parents,40,3,0,1,Approved
+Male,Working,129787,15,Secondary,Married,House / apartment,55,1,3,3,Rejected
+Female,Pensioner,203967,23,Incomplete higher,Single / not married,Rented apartment,62,0,3,4,Rejected
+Female,State servant,58576,22,Higher education,Single / not married,Rented apartment,49,1,2,0,Rejected
+Female,State servant,65872,12,Higher education,Single / not married,House / apartment,50,0,1,5,Rejected
+Male,Working,256253,10,Secondary,Single / not married,With parents,34,0,1,4,Rejected
+Male,Commercial associate,136129,24,Secondary,Married,Rented apartment,30,1,2,1,Rejected
+Male,Working,84551,0,Higher education,Single / not married,With parents,41,0,1,2,Rejected
+Male,Commercial associate,244436,13,Incomplete higher,Married,With parents,25,3,3,2,Rejected
+Male,Pensioner,182078,7,Incomplete higher,Married,With parents,63,4,2,3,Rejected
+Male,Working,175562,27,Higher education,Widow,With parents,27,3,3,0,Rejected
+Male,State servant,209461,4,Secondary,Single / not married,Rented apartment,60,4,2,3,Rejected
+Female,Pensioner,182527,19,Higher education,Married,With parents,28,4,1,3,Rejected
+Female,Commercial associate,158478,10,Higher education,Widow,Rented apartment,27,2,3,2,Rejected
+Female,State servant,299978,4,Incomplete higher,Widow,House / apartment,26,0,0,3,Rejected
+Male,State servant,262800,4,Incomplete higher,Married,With parents,56,4,2,5,Rejected
+Male,Pensioner,142693,27,Incomplete higher,Widow,With parents,24,2,2,2,Rejected
+Male,Commercial associate,90561,21,Higher education,Single / not married,House / apartment,43,4,2,0,Rejected
+Female,Commercial associate,261608,13,Incomplete higher,Married,With parents,63,2,0,1,Approved
+Female,State servant,291575,10,Higher education,Married,House / apartment,30,4,3,0,Rejected
+Male,Working,74053,23,Incomplete higher,Single / not married,Rented apartment,47,3,2,1,Rejected
+Female,State servant,239162,10,Incomplete higher,Married,House / apartment,30,1,0,5,Rejected
+Male,State servant,166159,21,Higher education,Widow,With parents,49,3,2,1,Rejected
+Male,State servant,162699,3,Higher education,Widow,With parents,63,2,0,1,Approved
+Female,Working,52015,6,Higher education,Single / not married,House / apartment,37,2,2,0,Rejected
+Male,Pensioner,245825,13,Secondary,Single / not married,Rented apartment,55,1,2,0,Rejected
+Female,Working,164352,0,Higher education,Married,Rented apartment,57,3,3,5,Rejected
+Female,State servant,80192,12,Secondary,Civil marriage,House / apartment,60,3,2,0,Rejected
+Female,Working,113783,13,Incomplete higher,Widow,With parents,26,3,2,5,Rejected
+Female,Commercial associate,137311,24,Secondary,Married,With parents,61,0,1,2,Approved
+Female,Commercial associate,111936,3,Secondary,Civil marriage,House / apartment,32,4,1,5,Rejected
+Male,Commercial associate,299375,24,Incomplete higher,Widow,Rented apartment,57,4,3,5,Rejected
+Female,State servant,89572,14,Secondary,Widow,Rented apartment,61,2,2,4,Rejected
+Male,State servant,182995,2,Higher education,Widow,Rented apartment,23,0,2,2,Rejected
+Male,Working,211220,19,Incomplete higher,Widow,Rented apartment,58,4,0,3,Rejected
+Male,State servant,208598,15,Incomplete higher,Single / not married,House / apartment,49,0,2,5,Rejected
+Male,Commercial associate,60260,7,Incomplete higher,Widow,Rented apartment,54,4,1,2,Rejected
+Female,State servant,151558,13,Higher education,Married,With parents,62,2,0,2,Approved
+Male,Pensioner,124487,8,Incomplete higher,Single / not married,Rented apartment,26,4,1,2,Approved
+Female,Pensioner,83803,19,Incomplete higher,Married,Rented apartment,56,3,2,1,Rejected
+Male,Pensioner,183297,11,Secondary,Civil marriage,Rented apartment,32,1,2,3,Rejected
+Male,Commercial associate,86061,4,Secondary,Civil marriage,House / apartment,53,4,0,5,Rejected
+Female,Commercial associate,206564,12,Secondary,Single / not married,House / apartment,65,4,1,5,Rejected
+Female,Working,157704,11,Incomplete higher,Single / not married,Rented apartment,60,2,3,1,Rejected
+Male,State servant,261975,25,Higher education,Single / not married,Rented apartment,64,4,3,3,Rejected
+Female,Pensioner,181833,16,Higher education,Single / not married,House / apartment,59,1,2,0,Rejected
+Female,State servant,195369,29,Secondary,Married,Rented apartment,26,1,2,3,Rejected
+Male,Pensioner,74042,30,Secondary,Widow,Rented apartment,22,3,0,3,Rejected
+Female,Commercial associate,151231,2,Higher education,Single / not married,House / apartment,41,0,2,1,Rejected
+Male,Working,125203,29,Higher education,Single / not married,With parents,51,3,0,0,Approved
+Male,State servant,106532,26,Secondary,Widow,House / apartment,39,1,2,0,Rejected
+Male,Commercial associate,160054,20,Incomplete higher,Widow,House / apartment,28,3,0,5,Rejected
+Male,Commercial associate,126355,13,Secondary,Civil marriage,House / apartment,57,3,1,5,Rejected
+Male,State servant,67741,30,Incomplete higher,Married,Rented apartment,51,0,3,2,Rejected
+Female,Working,143610,25,Secondary,Civil marriage,House / apartment,63,0,2,1,Rejected
+Male,State servant,193134,10,Incomplete higher,Single / not married,With parents,50,3,1,1,Approved
+Male,Pensioner,59695,9,Secondary,Married,House / apartment,23,2,2,4,Rejected
+Female,Pensioner,116404,1,Incomplete higher,Single / not married,Rented apartment,43,0,2,2,Rejected
+Male,State servant,164544,28,Higher education,Widow,Rented apartment,42,1,3,5,Rejected
+Female,State servant,292302,25,Incomplete higher,Civil marriage,House / apartment,48,0,3,4,Rejected
+Male,State servant,134203,3,Secondary,Civil marriage,With parents,39,2,3,4,Rejected
+Female,Commercial associate,230817,14,Higher education,Widow,House / apartment,43,4,3,2,Rejected
+Male,Working,225946,20,Higher education,Civil marriage,With parents,64,1,0,1,Approved
+Female,Working,83090,2,Secondary,Civil marriage,Rented apartment,45,4,0,4,Rejected
+Male,Pensioner,298728,11,Higher education,Widow,House / apartment,57,1,2,3,Rejected
+Female,State servant,115434,30,Secondary,Married,With parents,32,3,3,4,Rejected
+Male,State servant,253152,8,Incomplete higher,Widow,House / apartment,60,2,3,1,Rejected
+Male,Commercial associate,273563,2,Higher education,Single / not married,With parents,49,0,2,5,Rejected
+Female,Working,194178,17,Higher education,Civil marriage,House / apartment,65,1,2,4,Rejected
+Male,Working,102685,25,Secondary,Single / not married,Rented apartment,22,2,2,3,Rejected
+Male,Working,67235,9,Higher education,Widow,With parents,47,3,0,1,Rejected
+Female,Working,167958,14,Incomplete higher,Civil marriage,House / apartment,56,4,1,1,Approved
+Female,Working,267944,3,Incomplete higher,Single / not married,Rented apartment,31,1,2,5,Rejected
+Male,State servant,298377,30,Incomplete higher,Civil marriage,House / apartment,37,1,2,1,Rejected
+Female,Working,181746,20,Secondary,Single / not married,House / apartment,63,4,2,4,Rejected
+Male,Working,71292,1,Incomplete higher,Civil marriage,With parents,34,4,3,4,Rejected
+Male,Pensioner,283045,20,Incomplete higher,Civil marriage,With parents,40,3,1,5,Rejected
+Female,State servant,168893,2,Incomplete higher,Married,House / apartment,49,3,3,3,Rejected
+Male,State servant,209032,4,Higher education,Civil marriage,With parents,43,3,1,2,Approved
+Male,State servant,113370,14,Secondary,Civil marriage,Rented apartment,36,1,0,0,Rejected
+Female,Pensioner,276535,19,Higher education,Single / not married,House / apartment,41,4,2,1,Rejected
+Male,Pensioner,184932,14,Higher education,Civil marriage,Rented apartment,22,0,3,4,Rejected
+Female,Commercial associate,106398,18,Higher education,Married,House / apartment,39,3,3,2,Rejected
+Male,Working,162965,4,Higher education,Civil marriage,Rented apartment,44,0,3,0,Rejected
+Male,State servant,195024,9,Secondary,Widow,With parents,49,4,2,4,Rejected
+Male,Commercial associate,75344,12,Higher education,Civil marriage,With parents,44,1,1,4,Rejected
+Female,Working,61876,1,Secondary,Civil marriage,Rented apartment,54,3,1,4,Rejected

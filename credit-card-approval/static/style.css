@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg: #edf2f8;
+  --surface: #ffffff;
+  --text: #1d2d50;
+  --text-muted: #506184;
+  --border: #dbe0ea;
+  --accent: #1f3c88;
+  --accent-dark: #122761;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 16px;
+  background-image: linear-gradient(rgba(255,255,255,0.83), rgba(255,255,255,0.83)), url('https://images.unsplash.com/photo-1556740760-3e6a0b2f4f3f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&s=');
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  width: min(700px, 100%);
+  background: var(--surface);
+  border-radius: 18px;
+  padding: 32px 36px;
+  box-shadow: 0 20px 60px rgba(29, 45, 80, 0.12);
+  border: 1px solid rgba(29, 45, 80, 0.08);
+}
+
+h1 {
+  margin: 0;
+  font-size: 28px;
+  text-align: center;
+  color: var(--accent);
+}
+
+p {
+  margin: 10px auto 0;
+  text-align: center;
+  color: var(--text-muted);
+  max-width: 560px;
+  line-height: 1.6;
+}
+
+form {
+  margin-top: 28px;
+  display: grid;
+  gap: 18px;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px solid var(--border);
+  background: #f8fafc;
+  color: var(--text);
+  font-size: 15px;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+  border-color: rgba(31, 60, 136, 0.35);
+  box-shadow: 0 0 0 4px rgba(31, 60, 136, 0.08);
+}
+
+button {
+  width: 100%;
+  padding: 14px 16px;
+  border: none;
+  border-radius: 14px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  background: var(--accent);
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+button:hover {
+  background: var(--accent-dark);
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding: 24px 20px;
+  }
+}
